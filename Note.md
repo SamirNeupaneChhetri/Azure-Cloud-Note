@@ -55,7 +55,7 @@ Copy the public key from the bash and paste it to the PUBLIC KEY place in VM cre
    3. SSH Keyfile
       1. Optionally the password for the SSH key
 
-`ssh newkey_name@ip_addr_to_vm -i ~/.ssh/newkey_name`
+`ssh VM_userName@ip_addr_to_vm -i ~/.ssh/newkey_name`
 
 # 3 - Cloud setup
 
